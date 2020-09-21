@@ -18,6 +18,7 @@ body{
   border-top:#ffffff solid 0.5px;
   height: 50px;
   background-color: #ffffff;
+  
 }
 
 .left-bar{
@@ -67,4 +68,8 @@ li{
 
 .item-spacing > *:not(last-child){ 
   margin-right: 10px;
+}
+
+.boxie{
+  border: black solid 1px;
 }
