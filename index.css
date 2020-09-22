@@ -96,3 +96,45 @@ li{
   margin-top: 10px;
   margin-right: 5px;
 }
+
+.item-spacing-3{
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.post-box-2{  
+  border: 1px solid #ffffff;
+  background-color: #ffffff;
+  width: 620px;
+  height: 110px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  }
+
+.post-box{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  
+}
+
+.small-box{
+  border: solid red 1px;
+  background-color: red;
+  height: 23px; width: 23px;
+  border-radius: 50%;
+  margin-top: 15px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.upper-half{
+  display: flex;
+}
+
+.the-bot{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 13px;
+}
