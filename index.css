@@ -13,7 +13,7 @@ body{
 .top-bar{
   display: flex;
   flex-direction: row ;
-  justify-content: space-around;
+  justify-content: space-between;
   border-bottom:#ffffff solid 0.5px;
   border-top:#ffffff solid 0.5px;
   height: 50px;
@@ -116,7 +116,6 @@ li{
   display: flex;
   justify-content: center;
   margin-top: 20px;
-  
 }
 
 .small-box{
