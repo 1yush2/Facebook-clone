@@ -18,7 +18,6 @@ body{
   border-top:#ffffff solid 0.5px;
   height: 50px;
   background-color: #ffffff;
-  
 }
 
 .left-bar{
@@ -136,4 +135,42 @@ li{
   display: flex;
   justify-content: space-around;
   padding-top: 13px;
+}
+
+.room-box{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.room-box-2{
+  border: 1px solid #ffffff;
+  background-color: #ffffff;
+  width: 620px; height: 70px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.ups{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10px;
+}
+
+.dwns{
+  display: flex;
+  padding-bottom: 5px;
+  margin: 0 10px;
+  justify-content: flex-start;
+}
+
+.medium-box{
+  border: solid lightblue 1px;
+  background-color: lightblue;
+  height: 32px; width: 32px;
+  border-radius: 50%;
+  margin: 0 10px;
+  margin-top: 4px;
 }
